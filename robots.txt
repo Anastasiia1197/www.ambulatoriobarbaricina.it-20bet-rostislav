@@ -9,4 +9,4 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://playzilla.atrium-taefernhof.ch/sitemap.xml
+Sitemap: https://www.ambulatoriobarbaricina.it/sitemap.xml
